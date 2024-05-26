@@ -5,5 +5,7 @@ The dataset is not balanced.
 
 It has three classes of wastes: 
 Organic = O
+
 Recyclable = R
+
 Electronics = E
